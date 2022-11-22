@@ -1,0 +1,34 @@
+* {
+    font-family: 'Lucida Sans';
+    box-sizing: border-box;
+    margin: 0;
+    font-style: italic;
+}
+body{
+    background: scroll;
+    background-color: black;
+    font-style: italic;
+    color: gray; 
+    font-family: 'Lucida Sans';
+    font-size: 20px;
+}
+.banner .banner-content button {
+    color: #de800d;
+    font-size: 1rem;
+    font-weight: bold;
+    padding: 16px 32px;
+    text-transform: uppercase;
+    letter-spacing: 4px;
+    background-color: transparent;
+    border-image: linear-gradient(#de800d, #de800d);
+    border-image-slice: 10;
+    border-radius: 30px;
+}
+h2 {
+    font-size: 1.5rem;
+    color: #de800d;
+    font-weight: bold;
+    letter-spacing: 4px;
+    text-transform: uppercase;
+    margin-bottom: 24px;
+}
